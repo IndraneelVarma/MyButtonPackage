@@ -24,11 +24,3 @@ public struct CustomButton: View {
         }
     }
 }
-
-// You can add any other public items here if needed
-public struct MyButtonPackage {
-    // This is optional, you can remove it if not needed
-    public static func sayHello() {
-        print("Hello from MyButtonPackage!")
-    }
-}
